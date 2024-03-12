@@ -1,0 +1,53 @@
+
+.bigRed {   
+    color: red;
+}
+
+
+.marked {
+    background-color: blue;
+    color: white;
+    width: 153px;
+    padding-bottom: 1px;
+    line-height: 100%;
+}
+
+.text1 {
+    padding-top: 35px;
+}
+
+.text1 span {
+    color: red;
+}
+
+.h2 {
+    background-color: green;
+    color: white;
+}
+
+.text2 {
+    width: auto;
+}
+
+.h2_2 {
+    background-color: green;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+}
+
+.text3 {
+    padding-left: 50px;
+}
+
+.list {
+    padding-left: 50px;
+}
+
+.frame {
+    border: 2px solid black;
+}
+.link {
+    color: blue;
+}
