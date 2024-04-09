@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+}
+main {
+    
+    background-color: hsla(112, 47%, 57%, 0.842);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    width: 500px;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 15px;
+    margin-top: 10%;
+}
+
+.guessField {
+    height: 50px;
+    width: 40px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+input {
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.start_btn {
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    background-color: blanchedalmond;
+}
