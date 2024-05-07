@@ -1,0 +1,17 @@
+.main_title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.main_block {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.block{
+  text-align: center;
+  width: 20%;
+}
