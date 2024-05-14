@@ -1,0 +1,75 @@
+.img {
+  width: 400px;
+}
+
+.block {
+  width: 400px;
+  border: 1px black;
+  margin: 0 auto;
+  margin-top: 250px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.385);
+}
+
+.title {
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+
+.descr {
+  margin-left: 20px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  width: 300px;
+  font-size: 18px;
+  color: gray;
+}
+
+.dia {
+  margin-left: 20px;
+  height: 40px;
+  width: 150px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.price {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.btn_block {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.btn {
+  width: 40px;
+  height: 30px;
+}
+
+.count {
+  height: 28px;
+  width: 40px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: large;
+}
+
+.bin {
+  height: 30px;
+  width: 60px;
+  margin-left: 20px;
+  background-color: hwb(120 36% 45%);
+  border: 0.5px solid black;
+  border-radius: 3px;
+}
+
